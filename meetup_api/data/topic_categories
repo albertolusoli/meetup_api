@@ -1,0 +1,97 @@
+[{u'name': u'Outdoors & Adventure', u'photo': {u'thumb_link': u'https://secure.meetupstatic.com/photos/event/2/e/a/7/thumb_450131943.jpeg', u'base_url': u'https://secure.meetupstatic.com', u'id': 450131943, u'type': u'event', u'photo_link': u'https://secure.meetupstatic.com/photos/event/2/e/a/7/600_450131943.jpeg', u'highres_link': u'https://secure.meetupstatic.com/photos/event/2/e/a/7/highres_450131943.jpeg'}, 
+
+u'sort_name': u'Outdoors & Adventure', u'shortname': u'outdoors-adventure', u'category_ids': [3, 23], u'id': 242}, 
+
+{u'name': u'Tech', u'photo': {u'thumb_link': u'https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg', u'base_url': u'https://secure.meetupstatic.com', u'id': 450131949, u'type': u'event', u'photo_link': u'https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg', u'highres_link': u'https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg'}, 
+
+u'sort_name': u'Tech', u'shortname': u'tech', u'category_ids': [34], u'id': 292}, 
+
+{u'name': u'Family', u'photo': {u'thumb_link': u'https://secure.meetupstatic.com/photos/event/2/e/9/c/thumb_450131932.jpeg', u'base_url': u'https://secure.meetupstatic.com', u'id': 450131932, u'type': u'event', u'photo_link': u'https://secure.meetupstatic.com/photos/event/2/e/9/c/600_450131932.jpeg', u'highres_link': u'https://secure.meetupstatic.com/photos/event/2/e/9/c/highres_450131932.jpeg'}, 
+
+u'sort_name': u'Family', u'shortname': u'parents-family', u'category_ids': [25], u'id': 232}, 
+
+{u'name': u'Health & Wellness', u'photo': {u'thumb_link': u'https://secure.meetupstatic.com/photos/event/2/e/a/e/thumb_450131950.jpeg', u'base_url': u'https://secure.meetupstatic.com', u'id': 450131950, u'type': u'event', u'photo_link': u'https://secure.meetupstatic.com/photos/event/2/e/a/e/600_450131950.jpeg', u'highres_link': u'https://secure.meetupstatic.com/photos/event/2/e/a/e/highres_450131950.jpeg'}, 
+
+u'sort_name': u'Health & Wellness', u'shortname': u'health-wellness', u'category_ids': [14, 33], u'id': 302}, 
+
+{u'name': u'Sports & Fitness', u'photo': {u'thumb_link': u'https://secure.meetupstatic.com/photos/event/2/e/a/c/thumb_450131948.jpeg', u'base_url': u'https://secure.meetupstatic.com', u'id': 450131948, u'type': u'event', u'photo_link': u'https://secure.meetupstatic.com/photos/event/2/e/a/c/600_450131948.jpeg', u'highres_link': u'https://secure.meetupstatic.com/photos/event/2/e/a/c/highres_450131948.jpeg'}, 
+
+u'sort_name': u'Sports & Fitness', u'shortname': u'sports-fitness', u'category_ids': [9, 32], u'id': 282}, 
+
+{u'name': u'Learning', u'photo': {u'thumb_link': u'https://secure.meetupstatic.com/photos/event/2/e/9/b/thumb_450131931.jpeg', u'base_url': u'https://secure.meetupstatic.com', u'id': 450131931, u'type': u'event', u'photo_link': u'https://secure.meetupstatic.com/photos/event/2/e/9/b/600_450131931.jpeg', u'highres_link': u'https://secure.meetupstatic.com/photos/event/2/e/9/b/highres_450131931.jpeg'}, 
+
+u'sort_name': u'Learning', u'shortname': u'education', u'category_ids': [6], u'id': 562}, 
+
+{u'name': u'Photography', u'photo': {u'thumb_link': u'https://secure.meetupstatic.com/photos/event/2/e/a/a/thumb_450131946.jpeg', u'base_url': u'https://secure.meetupstatic.com', u'id': 450131946, u'type': u'event', u'photo_link': u'https://secure.meetupstatic.com/photos/event/2/e/a/a/600_450131946.jpeg', u'highres_link': u'https://secure.meetupstatic.com/photos/event/2/e/a/a/highres_450131946.jpeg'}, 
+
+u'sort_name': u'Photography', u'shortname': u'photography', u'category_ids': [27], u'id': 262}, 
+
+{u'name': u'Food & Drink', u'photo': {u'thumb_link': u'https://secure.meetupstatic.com/photos/event/2/e/a/1/thumb_450131937.jpeg', u'base_url': u'https://secure.meetupstatic.com', u'id': 450131937, u'type': u'event', u'photo_link': u'https://secure.meetupstatic.com/photos/event/2/e/a/1/600_450131937.jpeg', u'highres_link': u'https://secure.meetupstatic.com/photos/event/2/e/a/1/highres_450131937.jpeg'}, 
+
+u'sort_name': u'Food & Drink', u'shortname': u'food', u'category_ids': [10], u'id': 162}, 
+
+{u'name': u'Writing', u'photo': {u'thumb_link': u'https://secure.meetupstatic.com/photos/event/2/e/a/f/thumb_450131951.jpeg', u'base_url': u'https://secure.meetupstatic.com', u'id': 450131951, u'type': u'event', u'photo_link': u'https://secure.meetupstatic.com/photos/event/2/e/a/f/600_450131951.jpeg', u'highres_link': u'https://secure.meetupstatic.com/photos/event/2/e/a/f/highres_450131951.jpeg'}, 
+
+u'sort_name': u'Writing', u'shortname': u'writing', u'category_ids': [36], u'id': 582}, 
+
+{u'name': u'Language & Culture', u'photo': {u'thumb_link': u'https://secure.meetupstatic.com/photos/event/2/e/a/3/thumb_450131939.jpeg', u'base_url': u'https://secure.meetupstatic.com', u'id': 450131939, u'type': u'event', u'photo_link': u'https://secure.meetupstatic.com/photos/event/2/e/a/3/600_450131939.jpeg', u'highres_link': u'https://secure.meetupstatic.com/photos/event/2/e/a/3/highres_450131939.jpeg'}, 
+
+u'sort_name': u'Language & Culture', u'shortname': u'language', u'category_ids': [16], u'id': 212}, 
+
+{u'name': u'Music', u'photo': {u'thumb_link': u'https://secure.meetupstatic.com/photos/event/2/e/a/6/thumb_450131942.jpeg', u'base_url': u'https://secure.meetupstatic.com', u'id': 450131942, u'type': u'event', u'photo_link': u'https://secure.meetupstatic.com/photos/event/2/e/a/6/600_450131942.jpeg', u'highres_link': u'https://secure.meetupstatic.com/photos/event/2/e/a/6/highres_450131942.jpeg'}, 
+
+u'sort_name': u'Music', u'shortname': u'music', u'category_ids': [21], u'id': 512}, 
+
+{u'name': u'Movements', u'photo': {u'thumb_link': u'https://secure.meetupstatic.com/photos/event/2/e/a/5/thumb_450131941.jpeg', u'base_url': u'https://secure.meetupstatic.com', u'id': 450131941, u'type': u'event', u'photo_link': u'https://secure.meetupstatic.com/photos/event/2/e/a/5/600_450131941.jpeg', u'highres_link': u'https://secure.meetupstatic.com/photos/event/2/e/a/5/highres_450131941.jpeg'}, 
+
+u'sort_name': u'Movements', u'shortname': u'movements', u'category_ids': [4, 13], u'id': 552}, 
+
+{u'name': u'LGBTQ', u'photo': {u'thumb_link': u'https://secure.meetupstatic.com/photos/event/2/e/a/4/thumb_450131940.jpeg', u'base_url': u'https://secure.meetupstatic.com', u'id': 450131940, u'type': u'event', u'photo_link': u'https://secure.meetupstatic.com/photos/event/2/e/a/4/600_450131940.jpeg', u'highres_link': u'https://secure.meetupstatic.com/photos/event/2/e/a/4/highres_450131940.jpeg'}, 
+
+u'sort_name': u'LGBTQ', u'shortname': u'lgbtq', u'category_ids': [12], u'id': 585}, 
+
+{u'name': u'Film', u'photo': {u'thumb_link': u'https://secure.meetupstatic.com/photos/event/4/8/3/f/thumb_450858495.jpeg', u'base_url': u'https://secure.meetupstatic.com', u'id': 450858495, u'type': u'event', u'photo_link': u'https://secure.meetupstatic.com/photos/event/4/8/3/f/600_450858495.jpeg', u'highres_link': u'https://secure.meetupstatic.com/photos/event/4/8/3/f/highres_450858495.jpeg'}, 
+
+u'sort_name': u'Film', u'shortname': u'film', u'category_ids': [20], u'id': 583}, 
+
+{u'name': u'Sci-Fi & Games', u'photo': {u'thumb_link': u'https://secure.meetupstatic.com/photos/event/2/e/a/2/thumb_450131938.jpeg', u'base_url': u'https://secure.meetupstatic.com', u'id': 450131938, u'type': u'event', u'photo_link': u'https://secure.meetupstatic.com/photos/event/2/e/a/2/600_450131938.jpeg', u'highres_link': u'https://secure.meetupstatic.com/photos/event/2/e/a/2/highres_450131938.jpeg'}, 
+
+u'sort_name': u'Sci-Fi & Games', u'shortname': u'games-sci-fi', u'category_ids': [11, 29], u'id': 182}, 
+
+{u'name': u'Beliefs', u'photo': {u'thumb_link': u'https://secure.meetupstatic.com/photos/event/2/e/9/5/thumb_450131925.jpeg', u'base_url': u'https://secure.meetupstatic.com', u'id': 450131925, u'type': u'event', u'photo_link': u'https://secure.meetupstatic.com/photos/event/2/e/9/5/600_450131925.jpeg', u'highres_link': u'https://secure.meetupstatic.com/photos/event/2/e/9/5/highres_450131925.jpeg'}, 
+
+u'sort_name': u'Beliefs', u'shortname': u'beliefs', u'category_ids': [22, 24, 28], u'id': 132}, 
+
+{u'name': u'Arts', u'photo': {u'thumb_link': u'https://secure.meetupstatic.com/photos/event/2/e/8/8/thumb_450131912.jpeg', u'base_url': u'https://secure.meetupstatic.com', u'id': 450131912, u'type': u'event', u'photo_link': u'https://secure.meetupstatic.com/photos/event/2/e/8/8/600_450131912.jpeg', u'highres_link': u'https://secure.meetupstatic.com/photos/event/2/e/8/8/highres_450131912.jpeg'}, 
+
+u'sort_name': u'Arts', u'shortname': u'arts-culture', u'category_ids': [1], u'id': 122}, 
+
+{u'name': u'Book Clubs', u'photo': {u'thumb_link': u'https://secure.meetupstatic.com/photos/event/2/e/9/6/thumb_450131926.jpeg', u'base_url': u'https://secure.meetupstatic.com', u'id': 450131926, u'type': u'event', u'photo_link': u'https://secure.meetupstatic.com/photos/event/2/e/9/6/600_450131926.jpeg', u'highres_link': u'https://secure.meetupstatic.com/photos/event/2/e/9/6/highres_450131926.jpeg'}, 
+
+u'sort_name': u'Book Clubs', u'shortname': u'book-clubs', u'category_ids': [18], u'id': 222}, 
+
+{u'name': u'Dance', u'photo': {u'thumb_link': u'https://secure.meetupstatic.com/photos/event/2/e/9/a/thumb_450131930.jpeg', u'base_url': u'https://secure.meetupstatic.com', u'id': 450131930, u'type': u'event', u'photo_link': u'https://secure.meetupstatic.com/photos/event/2/e/9/a/600_450131930.jpeg', u'highres_link': u'https://secure.meetupstatic.com/photos/event/2/e/9/a/highres_450131930.jpeg'}, 
+
+u'sort_name': u'Dance', u'shortname': u'dancing', u'category_ids': [5], u'id': 542}, 
+
+{u'name': u'Pets', u'photo': {u'thumb_link': u'https://secure.meetupstatic.com/photos/event/2/e/a/9/thumb_450131945.jpeg', u'base_url': u'https://secure.meetupstatic.com', u'id': 450131945, u'type': u'event', u'photo_link': u'https://secure.meetupstatic.com/photos/event/2/e/a/9/600_450131945.jpeg', u'highres_link': u'https://secure.meetupstatic.com/photos/event/2/e/a/9/highres_450131945.jpeg'}, 
+
+u'sort_name': u'Pets', u'shortname': u'pets', u'category_ids': [26], u'id': 252}, 
+
+{u'name': u'Hobbies & Crafts', u'photo': {u'thumb_link': u'https://secure.meetupstatic.com/photos/event/2/e/9/9/thumb_450131929.jpeg', u'base_url': u'https://secure.meetupstatic.com', u'id': 450131929, u'type': u'event', u'photo_link': u'https://secure.meetupstatic.com/photos/event/2/e/9/9/600_450131929.jpeg', u'highres_link': u'https://secure.meetupstatic.com/photos/event/2/e/9/9/highres_450131929.jpeg'}, 
+
+u'sort_name': u'Hobbies & Crafts', u'shortname': u'hobbies-crafts', u'category_ids': [15], u'id': 532}, 
+
+{u'name': u'Fashion & Beauty', u'photo': {u'thumb_link': u'https://secure.meetupstatic.com/photos/event/2/e/9/e/thumb_450131934.jpeg', u'base_url': u'https://secure.meetupstatic.com', u'id': 450131934, u'type': u'event', u'photo_link': u'https://secure.meetupstatic.com/photos/event/2/e/9/e/600_450131934.jpeg', u'highres_link': u'https://secure.meetupstatic.com/photos/event/2/e/9/e/highres_450131934.jpeg'}, 
+
+u'sort_name': u'Fashion & Beauty', u'shortname': u'fashion-beauty', u'category_ids': [8], u'id': 584}, 
+
+{u'name': u'Social', u'photo': {u'thumb_link': u'https://secure.meetupstatic.com/photos/event/2/e/a/b/thumb_450131947.jpeg', u'base_url': u'https://secure.meetupstatic.com', u'id': 450131947, u'type': u'event', u'photo_link': u'https://secure.meetupstatic.com/photos/event/2/e/a/b/600_450131947.jpeg', u'highres_link': u'https://secure.meetupstatic.com/photos/event/2/e/a/b/highres_450131947.jpeg'}, 
+
+u'sort_name': u'Social', u'shortname': u'social', u'category_ids': [31], u'id': 272}, 
+
+{u'name': u'Career & Business', u'photo': {u'thumb_link': u'https://secure.meetupstatic.com/photos/event/2/e/9/7/thumb_450131927.jpeg', u'base_url': u'https://secure.meetupstatic.com', u'id': 450131927, u'type': u'event', u'photo_link': u'https://secure.meetupstatic.com/photos/event/2/e/9/7/600_450131927.jpeg', u'highres_link': u'https://secure.meetupstatic.com/photos/event/2/e/9/7/highres_450131927.jpeg'}, 
+
+u'sort_name': u'Career & Business', u'shortname': u'career-business', u'category_ids': [2], u'id': 522}]
+
+

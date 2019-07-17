@@ -1,0 +1,31 @@
+Throttling Issue:
+
+', '2018-01-30 03:03:47', '2018-01-30 03:03:47', u'waitlist'), (111205402, '246618335', 'urbanminglersover30', '2018-01-30 03:03:47', '2018-01-30 03:03:47', u'yes'), (183773381, '246618335', 'urbanminglersover30', '2018-01-30 03:03:47', '2018-01-30 03:03:47', u'yes'), (222791097, '246618335', 'urbanminglersover30', '2018-01-30 03:03:47', '2018-01-30 03:03:47', u'no'), (48814392, '246618335', 'urbanminglersover30', '2018-01-30 03:03:47', '2018-01-30 03:03:47', u'waitlist')]
+success
+urbanminglersover30 247025930
+urlname:  urbanminglersover30 event_id:  247025930
+{u'errors': [{u'message': u'Credentials have been throttled', u'code': u'throttled'}]}
+error --------**
+
+-------
+[]
+success
+urbanminglersover30 cgxtdpyxfbdb
+urlname:  urbanminglersover30 event_id:  cgxtdpyxfbdb
+{u'errors': [{u'message': u'Credentials have been throttled', u'code': u'throttled'}]}
+error --------**
+
+-------
+[]
+success
+urbanminglersover30 cgxtdpyxfbmb
+urlname:  urbanminglersover30 event_id:  cgxtdpyxfbmb
+{u'errors': [{u'message': u'Credentials have been throttled more than the allowed times in one hour', u'code': u'blocked'}]}
+rsvp request
+error: blocked; limit reached at  2018-01-30 03:03:48.703582
+
+
+***************************
+Delay set: this is working...
+
+It did not catch error until third request...weird...

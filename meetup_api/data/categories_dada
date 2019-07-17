@@ -1,0 +1,71 @@
+{u'meta': {u'count': 33, u'updated': 1450292956000, u'description': u'Returns a list of Meetup group categories', u'title': u'Categories', u'url': u'https://api.meetup.com/2/categories?offset=0&format=json&page=50&key=2a6e3cd671e3826353a571c70733c&order=shortname&desc=false', u'total_count': 33, u'lon': u'None', u'next': u'', u'lat': u'None', u'link': u'https://api.meetup.com/2/categories', u'id': u'', u'method': u'Categories'}, 
+
+u'results': [{u'id': 1, u'shortname': u'Arts', u'name': u'Arts & Culture', u'sort_name': u'Arts & Culture'}, 
+
+{u'id': 18, u'shortname': u'Book Clubs', u'name': u'Book Clubs', u'sort_name': u'Book Clubs'}, 
+
+{u'id': 2, u'shortname': u'Business', u'name': u'Career & Business', u'sort_name': u'Career & Business'}, 
+
+{u'id': 3, u'shortname': u'Auto', u'name': u'Cars & Motorcycles', u'sort_name': u'Cars & Motorcycles'}, 
+
+{u'id': 4, u'shortname': u'Community', u'name': u'Community & Environment', u'sort_name': u'Community & Environment'}, 
+
+{u'id': 5, u'shortname': u'Dancing', u'name': u'Dancing', u'sort_name': u'Dancing'}, 
+
+{u'id': 6, u'shortname': u'Education', u'name': u'Education & Learning', u'sort_name': u'Education & Learning'}, 
+
+{u'id': 8, u'shortname': u'Fashion', u'name': u'Fashion & Beauty', u'sort_name': u'Fashion & Beauty'}, 
+
+{u'id': 9, u'shortname': u'Fitness', u'name': u'Fitness', u'sort_name': u'Fitness'}, 
+
+{u'id': 10, u'shortname': u'Food & Drink', u'name': u'Food & Drink', u'sort_name': u'Food & Drink'}, 
+
+{u'id': 11, u'shortname': u'Games', u'name': u'Games', u'sort_name': u'Games'}, 
+
+{u'id': 13, u'shortname': u'Movements', u'name': u'Movements & Politics', u'sort_name': u'Movements & Politics'}, 
+
+{u'id': 14, u'shortname': u'Well-being', u'name': u'Health & Wellbeing', u'sort_name': u'Health & Wellbeing'}, 
+
+{u'id': 15, u'shortname': u'Crafts', u'name': u'Hobbies & Crafts', u'sort_name': u'Hobbies & Crafts'}, 
+
+{u'id': 16, u'shortname': u'Languages', u'name': u'Language & Ethnic Identity', u'sort_name': u'Language & Ethnic Identity'}, 
+
+{u'id': 12, u'shortname': u'LGBT', u'name': u'LGBT', u'sort_name': u'LGBT'}, 
+
+{u'id': 17, u'shortname': u'Lifestyle', u'name': u'Lifestyle', u'sort_name': u'Lifestyle'}, 
+
+{u'id': 20, u'shortname': u'Films', u'name': u'Movies & Film', u'sort_name': u'Movies & Film'}, 
+
+{u'id': 21, u'shortname': u'Music', u'name': u'Music', u'sort_name': u'Music'}, 
+
+{u'id': 22, u'shortname': u'Spirituality', u'name': u'New Age & Spirituality', u'sort_name': u'New Age & Spirituality'}, 
+
+{u'id': 23, u'shortname': u'Outdoors', u'name': u'Outdoors & Adventure', u'sort_name': u'Outdoors & Adventure'}, 
+
+{u'id': 24, u'shortname': u'Paranormal', u'name': u'Paranormal', u'sort_name': u'Paranormal'}, 
+
+{u'id': 25, u'shortname': u'Moms & Dads', u'name': u'Parents & Family', u'sort_name': u'Parents & Family'}, 
+
+{u'id': 26, u'shortname': u'Pets', u'name': u'Pets & Animals', u'sort_name': u'Pets & Animals'}, 
+
+{u'id': 27, u'shortname': u'Photography', u'name': u'Photography', u'sort_name': u'Photography'}, 
+
+{u'id': 28, u'shortname': u'Beliefs', u'name': u'Religion & Beliefs', u'sort_name': u'Religion & Beliefs'}, 
+
+{u'id': 29, u'shortname': u'Sci fi', u'name': u'Sci-Fi & Fantasy', u'sort_name': u'Sci-Fi & Fantasy'}, 
+
+{u'id': 30, u'shortname': u'Singles', u'name': u'Singles', u'sort_name': u'Singles'}, 
+
+{u'id': 31, u'shortname': u'Social', u'name': u'Socializing', u'sort_name': u'Socializing'}, 
+
+{u'id': 32, u'shortname': u'Sports', u'name': u'Sports & Recreation', u'sort_name': u'Sports & Recreation'}, 
+
+{u'id': 33, u'shortname': u'Support', u'name': u'Support', u'sort_name': u'Support'}, 
+
+{u'id': 34, u'shortname': u'Tech', u'name': u'Tech', u'sort_name': u'Tech'}, 
+
+{u'id': 36, u'shortname': u'Writing', u'name': u'Writing', u'sort_name': u'Writing'}]}
+
+
+
+

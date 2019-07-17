@@ -1,0 +1,457 @@
+[{u'updated': 1516996351000,
+
+ u'group': {u'status': u'active',
+
+ u'name': u'Extremely Shy - Looking for friends?',
+
+ u'join_mode': u'open',
+
+ u'who': u'Friends',
+
+ u'group_photo': {u'thumb_link': u'https://secure.meetupstatic.com/photos/event/8/7/a/1/thumb_25714721.jpeg',
+
+ u'base_url': u'https://secure.meetupstatic.com',
+
+ u'id': 25714721,
+
+ u'type': u'event',
+
+ u'photo_link': u'https://secure.meetupstatic.com/photos/event/8/7/a/1/600_25714721.jpeg',
+
+ u'highres_link': u'https://secure.meetupstatic.com/photos/event/8/7/a/1/highres_25714721.jpeg'},
+
+ u'localized_location': u'Vancouver,
+
+ BC',
+
+ u'members': 21214,
+
+ u'urlname': u'Extremely-Shy-Looking-for-friends',
+
+ u'id': 1888171},
+
+ u'created': 1516852136000,
+
+ u'venue': {u'city': u'Vancouver',
+
+ u'name': u'White Spot',
+
+ u'zip': u'',
+
+ u'repinned': False,
+
+ u'lon': -123.11373138427734,
+
+ u'localized_country_name': u'Canada',
+
+ u'state': u'BC',
+
+ u'address_1': u'405 Dunsmuir Street Vancouver,
+
+ BC V6B 1X4 CA',
+
+ u'country': u'ca',
+
+ u'lat': 49.28187942504883,
+
+ u'id': 24390280},
+
+ u'response': u'no',
+
+ u'member': {u'photo': {u'thumb_link': u'https://secure.meetupstatic.com/photos/member/e/3/c/4/thumb_273718308.jpeg',
+
+ u'base_url': u'https://secure.meetupstatic.com',
+
+ u'id': 273718308,
+
+ u'type': u'member',
+
+ u'photo_link': u'https://secure.meetupstatic.com/photos/member/e/3/c/4/member_273718308.jpeg',
+
+ u'highres_link': u'https://secure.meetupstatic.com/photos/member/e/3/c/4/highres_273718308.jpeg'},
+
+ u'event_context': {u'host': False},
+
+ u'id': 105593792,
+
+ u'name': u'Ashley'},
+
+ u'guests': 0,
+
+ u'event': {u'yes_rsvp_count': 3,
+
+ u'utc_offset': -28800000,
+
+ u'time': 1517085000000,
+
+ u'id': u'247098842',
+
+ u'name': u'Lunch And Learn!'}},
+
+ {u'updated': 1516755004000,
+
+ u'group': {u'status': u'active',
+
+ u'name': u'Extremely Shy - Looking for friends?',
+
+ u'join_mode': u'open',
+
+ u'who': u'Friends',
+
+ u'group_photo': {u'thumb_link': u'https://secure.meetupstatic.com/photos/event/8/7/a/1/thumb_25714721.jpeg',
+
+ u'base_url': u'https://secure.meetupstatic.com',
+
+ u'id': 25714721,
+
+ u'type': u'event',
+
+ u'photo_link': u'https://secure.meetupstatic.com/photos/event/8/7/a/1/600_25714721.jpeg',
+
+ u'highres_link': u'https://secure.meetupstatic.com/photos/event/8/7/a/1/highres_25714721.jpeg'},
+
+ u'localized_location': u'Vancouver,
+
+ BC',
+
+ u'members': 21214,
+
+ u'urlname': u'Extremely-Shy-Looking-for-friends',
+
+ u'id': 1888171},
+
+ u'created': 1516755004000,
+
+ u'venue': {u'city': u'Vancouver',
+
+ u'name': u'White Spot',
+
+ u'zip': u'',
+
+ u'repinned': False,
+
+ u'lon': -123.11373138427734,
+
+ u'localized_country_name': u'Canada',
+
+ u'state': u'BC',
+
+ u'address_1': u'405 Dunsmuir Street Vancouver,
+
+ BC V6B 1X4 CA',
+
+ u'country': u'ca',
+
+ u'lat': 49.28187942504883,
+
+ u'id': 24390280},
+
+ u'response': u'no',
+
+ u'member': {u'photo': {u'thumb_link': u'https://secure.meetupstatic.com/photos/member/5/5/b/3/thumb_265881939.jpeg',
+
+ u'base_url': u'https://secure.meetupstatic.com',
+
+ u'id': 265881939,
+
+ u'type': u'member',
+
+ u'photo_link': u'https://secure.meetupstatic.com/photos/member/5/5/b/3/member_265881939.jpeg',
+
+ u'highres_link': u'https://secure.meetupstatic.com/photos/member/5/5/b/3/highres_265881939.jpeg'},
+
+ u'event_context': {u'host': False},
+
+ u'id': 205468441,
+
+ u'name': u'Cameryn D.'},
+
+ u'guests': 0,
+
+ u'event': {u'yes_rsvp_count': 3,
+
+ u'utc_offset': -28800000,
+
+ u'time': 1517085000000,
+
+ u'id': u'247098842',
+
+ u'name': u'Lunch And Learn!'}},
+
+ {u'updated': 1516775322000,
+
+ u'group': {u'status': u'active',
+
+ u'name': u'Extremely Shy - Looking for friends?',
+
+ u'join_mode': u'open',
+
+ u'who': u'Friends',
+
+ u'group_photo': {u'thumb_link': u'https://secure.meetupstatic.com/photos/event/8/7/a/1/thumb_25714721.jpeg',
+
+ u'base_url': u'https://secure.meetupstatic.com',
+
+ u'id': 25714721,
+
+ u'type': u'event',
+
+ u'photo_link': u'https://secure.meetupstatic.com/photos/event/8/7/a/1/600_25714721.jpeg',
+
+ u'highres_link': u'https://secure.meetupstatic.com/photos/event/8/7/a/1/highres_25714721.jpeg'},
+
+ u'localized_location': u'Vancouver,
+
+ BC',
+
+ u'members': 21214,
+
+ u'urlname': u'Extremely-Shy-Looking-for-friends',
+
+ u'id': 1888171},
+
+ u'created': 1516775322000,
+
+ u'venue': {u'city': u'Vancouver',
+
+ u'name': u'White Spot',
+
+ u'zip': u'',
+
+ u'repinned': False,
+
+ u'lon': -123.11373138427734,
+
+ u'localized_country_name': u'Canada',
+
+ u'state': u'BC',
+
+ u'address_1': u'405 Dunsmuir Street Vancouver,
+
+ BC V6B 1X4 CA',
+
+ u'country': u'ca',
+
+ u'lat': 49.28187942504883,
+
+ u'id': 24390280},
+
+ u'response': u'yes',
+
+ u'member': {u'bio': u'Hi. My name is Gord,
+
+ I am interested in meeting new people.',
+
+ u'name': u'Gord ',
+
+ u'event_context': {u'host': False},
+
+ u'role': u'event_organizer',
+
+ u'photo': {u'thumb_link': u'https://secure.meetupstatic.com/photos/member/a/0/1/7/thumb_258880983.jpeg',
+
+ u'base_url': u'https://secure.meetupstatic.com',
+
+ u'id': 258880983,
+
+ u'type': u'member',
+
+ u'photo_link': u'https://secure.meetupstatic.com/photos/member/a/0/1/7/member_258880983.jpeg',
+
+ u'highres_link': u'https://secure.meetupstatic.com/photos/member/a/0/1/7/highres_258880983.jpeg'},
+
+ u'id': 12350231},
+
+ u'guests': 0,
+
+ u'event': {u'yes_rsvp_count': 3,
+
+ u'utc_offset': -28800000,
+
+ u'time': 1517085000000,
+
+ u'id': u'247098842',
+
+ u'name': u'Lunch And Learn!'}},
+
+ {u'updated': 1516877956000,
+
+ u'group': {u'status': u'active',
+
+ u'name': u'Extremely Shy - Looking for friends?',
+
+ u'join_mode': u'open',
+
+ u'who': u'Friends',
+
+ u'group_photo': {u'thumb_link': u'https://secure.meetupstatic.com/photos/event/8/7/a/1/thumb_25714721.jpeg',
+
+ u'base_url': u'https://secure.meetupstatic.com',
+
+ u'id': 25714721,
+
+ u'type': u'event',
+
+ u'photo_link': u'https://secure.meetupstatic.com/photos/event/8/7/a/1/600_25714721.jpeg',
+
+ u'highres_link': u'https://secure.meetupstatic.com/photos/event/8/7/a/1/highres_25714721.jpeg'},
+
+ u'localized_location': u'Vancouver,
+
+ BC',
+
+ u'members': 21214,
+
+ u'urlname': u'Extremely-Shy-Looking-for-friends',
+
+ u'id': 1888171},
+
+ u'created': 1516877956000,
+
+ u'venue': {u'city': u'Vancouver',
+
+ u'name': u'White Spot',
+
+ u'zip': u'',
+
+ u'repinned': False,
+
+ u'lon': -123.11373138427734,
+
+ u'localized_country_name': u'Canada',
+
+ u'state': u'BC',
+
+ u'address_1': u'405 Dunsmuir Street Vancouver,
+
+ BC V6B 1X4 CA',
+
+ u'country': u'ca',
+
+ u'lat': 49.28187942504883,
+
+ u'id': 24390280},
+
+ u'response': u'yes',
+
+ u'member': {u'photo': {u'thumb_link': u'https://secure.meetupstatic.com/photos/member/b/8/5/9/thumb_273167193.jpeg',
+
+ u'base_url': u'https://secure.meetupstatic.com',
+
+ u'id': 273167193,
+
+ u'type': u'member',
+
+ u'photo_link': u'https://secure.meetupstatic.com/photos/member/b/8/5/9/member_273167193.jpeg',
+
+ u'highres_link': u'https://secure.meetupstatic.com/photos/member/b/8/5/9/highres_273167193.jpeg'},
+
+ u'event_context': {u'host': False},
+
+ u'id': 244132381,
+
+ u'name': u'Pil  Kim'},
+
+ u'guests': 0,
+
+ u'event': {u'yes_rsvp_count': 3,
+
+ u'utc_offset': -28800000,
+
+ u'time': 1517085000000,
+
+ u'id': u'247098842',
+
+ u'name': u'Lunch And Learn!'}},
+
+ {u'updated': 1517035511000,
+
+ u'group': {u'status': u'active',
+
+ u'name': u'Extremely Shy - Looking for friends?',
+
+ u'join_mode': u'open',
+
+ u'who': u'Friends',
+
+ u'group_photo': {u'thumb_link': u'https://secure.meetupstatic.com/photos/event/8/7/a/1/thumb_25714721.jpeg',
+
+ u'base_url': u'https://secure.meetupstatic.com',
+
+ u'id': 25714721,
+
+ u'type': u'event',
+
+ u'photo_link': u'https://secure.meetupstatic.com/photos/event/8/7/a/1/600_25714721.jpeg',
+
+ u'highres_link': u'https://secure.meetupstatic.com/photos/event/8/7/a/1/highres_25714721.jpeg'},
+
+ u'localized_location': u'Vancouver,
+
+ BC',
+
+ u'members': 21214,
+
+ u'urlname': u'Extremely-Shy-Looking-for-friends',
+
+ u'id': 1888171},
+
+ u'created': 1516760391000,
+
+ u'venue': {u'city': u'Vancouver',
+
+ u'name': u'White Spot',
+
+ u'zip': u'',
+
+ u'repinned': False,
+
+ u'lon': -123.11373138427734,
+
+ u'localized_country_name': u'Canada',
+
+ u'state': u'BC',
+
+ u'address_1': u'405 Dunsmuir Street Vancouver,
+
+ BC V6B 1X4 CA',
+
+ u'country': u'ca',
+
+ u'lat': 49.28187942504883,
+
+ u'id': 24390280},
+
+ u'response': u'no',
+
+ u'member': {u'photo': {u'thumb_link': u'https://secure.meetupstatic.com/photos/member/6/b/2/a/thumb_264327434.jpeg',
+
+ u'base_url': u'https://secure.meetupstatic.com',
+
+ u'id': 264327434,
+
+ u'type': u'member',
+
+ u'photo_link': u'https://secure.meetupstatic.com/photos/member/6/b/2/a/member_264327434.jpeg',
+
+ u'highres_link': u'https://secure.meetupstatic.com/photos/member/6/b/2/a/highres_264327434.jpeg'},
+
+ u'event_context': {u'host': False},
+
+ u'title': u'*',
+
+ u'id': 222129141,
+
+ u'name': u'Sam David Hale'},
+
+ u'guests': 0,
+
+ u'event': {u'yes_rsvp_count': 3,
+
+ u'utc_offset': -28800000,
+
+ u'time': 1517085000000,
+
+ u'id': u'247098842',
+
+ u'name': u'Lunch And Learn!'}}]

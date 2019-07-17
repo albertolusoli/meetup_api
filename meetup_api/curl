@@ -1,0 +1,13 @@
+curl -i \
+  -X OPTIONS \
+
+  'https://api.meetup.com/2/member/self?access_token=2a6e3cd671e3826353a571c70733c'
+
+
+  -H 'Origin: http://consumerhost.com' \
+
+
+  curl -H "Authorization: Bearer 2a6e3cd671e3826353a571c70733c" "https://api.meetup.com/members/self"
+
+
+curl -H "Authorization: Bearer 2a6e3cd671e3826353a571c70733c" -i "https://api.meetup.com/find/groups?zip=10021"

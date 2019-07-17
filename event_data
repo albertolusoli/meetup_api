@@ -1,0 +1,284 @@
+[{u'status': u'upcoming',
+
+ u'local_date': u'2018-01-27',
+
+	 u'group': {u'who': u'Friends',
+
+	 u'name': u'Extremely Shy - Looking for friends?',
+
+	 u'join_mode': u'open',
+
+	 u'region': u'en_US',
+
+	 u'created': 1305844394000,
+
+	 u'lon': -123.05000305175781,
+
+	 u'localized_location': u'Vancouver,
+
+	 BC',
+
+	 u'lat': 49.290000915527344,
+
+	 u'urlname': u'Extremely-Shy-Looking-for-friends',
+
+	 u'id': 1888171},
+
+
+
+ 
+
+ u'name': u'Lunch And Learn!',
+
+ u'created': 1516746513000,
+
+ u'yes_rsvp_count': 3,
+
+	 u'venue': {u'city': u'Vancouver',
+
+	 u'name': u'White Spot',
+
+	 u'zip': u'',
+
+	 u'repinned': False,
+
+	 u'lon': -123.11373138427734,
+
+	 u'localized_country_name': u'Canada',
+
+	 u'state': u'BC',
+
+	 u'address_1': u'405 Dunsmuir Street Vancouver,
+
+	 BC V6B 1X4 CA',
+
+	 u'country': u'ca',
+
+	 u'lat': 49.28187942504883,
+
+	 u'id': 24390280},
+
+ u'updated': 1516752957000,
+
+ u'visibility': u'public',
+
+ u'waitlist_count': 0,
+
+ u'utc_offset': -28800000,
+
+ u'local_time': u'12:30',
+
+ u'time': 1517085000000,
+
+ u'duration': 5400000,
+
+ u'rsvp_close_offset': u'PT48H',
+
+ u'id': u'247098842',
+
+ u'link': u'https://www.meetup.com/Extremely-Shy-Looking-for-friends/events/247098842/',
+
+ u'description': u"<p>A bunch of us are gathering together for a lunch &amp; learn how to shed off the extra pounds from the holidays! If you are down to learn a simple and healthier way to lose extra pounds while encouraging each other to reach our own goals! Do join us!</p> <p>Our intention is to have positive like minded people,
+
+ together educating each other to promote a healthy lifestyle. This is a chance for everyone to lose the extra weight and possibly win some extra cash.</p> <p>Since it's still the new year,
+
+ let's kick start 2018 the healthy way and maintain great health!</p> "}]
+
+
+
+
+
+
+-----------------------------------------------------
+
+{u'meta': {u'count': 1,
+
+
+ u'updated': 1517038657000,
+
+
+ u'description': u'Access Meetup events using a group,
+
+  member,
+
+  or event id. Events in private groups are available only to authenticated members of those groups. To search events by topic or location,
+
+  see [Open Events](/meetup_api/docs/2/open_events).',
+
+
+  u'title': u'Meetup Events v2',
+
+   u'url': u'https://api.meetup.com/2/events?offset=1&format=json&limited_events=False&group_id=229022&page=1&fields=&key=2a6e3cd671e3826353a571c70733c&order=time&desc=false&status=upcoming',
+
+   u'total_count': 163,
+
+   u'lon': u'',
+
+   u'next': u'https://api.meetup.com/2/events?offset=2&format=json&limited_events=False&group_id=229022&page=1&fields=&key=2a6e3cd671e3826353a571c70733c&order=time&desc=false&status=upcoming',
+
+   u'lat': u'',
+
+   u'link': u'https://api.meetup.com/2/events',
+
+   u'id': u'',
+
+   u'method': u'Events'},
+
+   u'results': [{u'status': u'upcoming',
+   u'utc_offset': -28800000,
+   u'event_url': u'https://www.meetup.com/mandarinchinese/events/247108563/',
+   u'group': {u'who': u'Mandarin Chinese Speakers',
+   u'name': u'The Vancouver Mandarin Chinese Club',
+   u'group_lat': 49.27000045776367,
+   u'created': 1142719465000,
+   u'join_mode': u'open',
+   u'group_lon': -123.06999969482422,
+   u'urlname': u'mandarinchinese',
+   u'id': 229022},
+
+   u'description': u"<p>We welcome Mandarin speakers of all levels. Depending on the number of attendees,
+
+   the session will either take place as a larger group or multiple smaller groups based on their respective levels. During the session we will discuss and learn about various vocabulary,
+
+   topics,
+
+   or go over any other learning materials attendees may bring. If you have any learning material you'd like to use please feel free to bring those along as well. Suggestions for topics are always welcomed.</p> <p>Parking: mall parking complex</p> <p>Transit: multiple buses (97B,160,188, etc) have stops along Pinetree Way</p> <p>Walking: 10 minutes from Coquitlam Station</p> <p>Don't live in or near Coquitlam? We have other similar events located in Metrotown,Oakridge, and Richmond.</p>", u'created': 1473786613000,
+
+   u'venue': {u'city': u'Coquitlam', u'name': u'Henderson Mall Food Court',
+   u'country': u'ca',
+   u'lon': -122.792641,
+   u'localized_country_name': u'Canada',
+   u'state': u'BC',
+   u'address_1': u'1163 Pinetree Way',
+   u'repinned': False,
+   u'lat': 49.279831,
+   u'id': 24591017},
+
+
+
+   u'updated': 1473786613000,
+
+   u'visibility': u'public',
+
+   u'id': u'pvmwxlyxcbmc',
+
+   u'yes_rsvp_count': 2,
+
+   u'time': 1517280300000,
+
+   u'duration': 6300000,
+
+   u'waitlist_count': 0,
+
+   u'headcount': 0,
+
+   u'maybe_rsvp_count': 0,
+
+   u'how_to_find_us': u'At the round tables in the central area or round tables by the glasses shop',
+
+   u'name': u'[Exchange] Mandarin Chat Lounge (Coquitlam)'}]}
+
+
+[(u'247098842',
+
+ u'Lunch And Learn!',
+
+ u"<p>A bunch of us are gathering together for a lunch &amp; learn how to shed off the extra pounds from the holidays! If you are down to learn a simple and healthier way to lose extra pounds while encouraging each other to reach our own goals! Do join us!</p> <p>Our intention is to have positive like minded people,
+
+ together educating each other to promote a healthy lifestyle. This is a chance for everyone to lose the extra weight and possibly win some extra cash.</p> <p>Since it's still the new year,
+
+ let's kick start 2018 the healthy way and maintain great health!</p> ",
+
+ 3,
+
+ datetime.date(2018,
+
+ 1,
+
+ 27),
+
+ datetime.time(12,
+
+ 30),
+
+ u'https://www.meetup.com/Extremely-Shy-Looking-for-friends/events/247098842/',
+
+ u'405 Dunsmuir Street Vancouver,
+
+ BC V6B 1X4 CA',
+
+ 49.28187942504883,
+
+ -123.11373138427734,
+
+ u'White Spot',
+
+ 1888171,
+
+ '2018-01-27 15:40:37'),
+
+ (u'qkgtslyxcblc',
+
+ u'\U0001f3b2 Board Games meetup \U0001f3b2 (Sunday edition @ The River Market)',
+
+ u'<p><b><a href="http://www.youtube.com/watch?v=6M6samPEMpM">&lt;/a&gt;</b></p> <p>You can join us <i>any time</i> after 11am and stay as long as you like until 6pm.</p> <p>If you plan on attending,
+
+ please please please <b>RSVP</b>!</p> <p><b>Despite the possibly low number of RSVP\'s,
+
+ we <i>always</i> get between 10 and 40 people at this event (unfortunately,
+
+ many don\'t RSVP through this groups -or the other two groups- page for this event).</b></p> <p><br/>This event is also hosted through:<br/>&lt;a href="http://www.meetup.com/The-Board-Gamers-of-Central-Vancouver/"&gt;The Board Gamers of Greater Vancouver\xa0and Beyond the Infinite</a><br/><a href="http://www.meetup.com/Geeks-and-Gamers/">Geeks,
+
+ Gamers and Boardgamers Collective</a></p> <p><br/>Enjoy board games and card games and whatever other games we have there!</p> <p>It\'s a wonderful place with lots of space and many different kinds of food on the first floor!</p> <p>Welcome to the <a href="http://rivermarket.ca/">River Market</a> edition\xa0of Sunday board games! We\'re on the second floor of the <a href="http://rivermarket.ca/">River Market</a>,
+
+ mere steps away from the New Westminster skytrain station!</p> <p><br/>This is a great location if you live in <b>Surrey</b> or <b>Coquitlam</b>.</p> <p><br/>Bring your games and lets have a great time!</p> <p><img src="http://photos3.meetupstatic.com/photos/event/4/5/b/c/600_304397852.jpeg" /></p> <p>Link to Google Maps for the outlined locations: <a href="https://www.google.com/maps/preview#!data=!4m29!3m28!1m5!1sNEW+WESTMINSTER+SkyTrain!2s0x5485d86e30e3c767%3A0x[masked]de1e430!3m2!3d[masked]!4d[masked]!1m5!1s810+Quayside+Dr%2C+New+Westminster%2C+BC+V3M+6B9%2C+Canada!2s0x5485d86fa80db725%3A0x3c75e8656b26ca78!3m2!3d[masked]!4d[masked]!1m5!1s708+Clarkson+St%2C+New+Westminster%2C+BC+V3M%2C+Canada!2s0x5485d86e078fc81f%3A0x1eee2b4ea8454d7e!3m2!3d[masked]!4d[masked]!2e2!3m8!1m3!1d1597!2d[masked]!3d[masked]!3m2!1i1280!2i941!4f13.1&amp;fid=0">HERE</a><br/>(<a href="http://rivermarket.ca/">River Market</a> is where the little toon turtle,
+
+ \xa0<a href="http://www.meetup.com/Extremely-Shy-Looking-for-friends/members/83694502/">Tommy</a>,
+
+ is hangin\' out)</p> <p>The map is a little misleading,
+
+ we\'re actually only a 3-minute walk from the skytrain station.</p> <p><br/>We\'re also super close to <a href="http://www.boardgamewarriors.com/">Board Game Warriors</a>,
+
+ a great board game store.</p> <p><br/><b>Food</b><br/>Many great eats await you downstairs at the River Market!</p> <p><b>Parking</b></p> <p><img src="http://photos4.meetupstatic.com/photos/event/a/c/9/2/600_449264178.jpeg" /></p> <p>Use <a href="http://en.parkopedia.ca/parking/new_westminster/">Parkopedia</a>,
+
+ or..<br/>the River Market\'s <a href="http://rivermarket.ca/parking">parking help page</a>.</p> <p><br/><b>Internet Access</b><br/>While at the River Market,
+
+ you can enjoy <b><i>free</i></b> Internet access.\xa0 If you check for WiFi hotspots,
+
+ you\'ll find \'River Market\' as a non-\'password protected\' access point.\xa0 Thank-you,
+
+ River Market,
+
+ for allowing us free Internet access!!\xa0</p> <p>For a list,
+
+ and brief explanation,
+
+ of\xa0some games we play,
+
+ click\xa0<a href="http://www.meetup.com/Extremely-Shy-Looking-for-friends/pages/Board_Games_We_Play/">HERE</a>.</p> ',
+
+ 10,
+
+ datetime.date(2018,
+
+ 1,
+
+ 28),
+
+ datetime.time(11,
+
+ 0),
+
+ u'https://www.meetup.com/Extremely-Shy-Looking-for-friends/events/247060599/',
+
+ u'810 Quayside Dr',
+
+ 49.200382232666016,
+
+ -122.91170501708984,
+
+ u'River Market at Westminster Quay',
+
+ 1888171,
+
+ '2018-01-27 15:40:37')]

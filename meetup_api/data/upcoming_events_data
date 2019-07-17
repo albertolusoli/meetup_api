@@ -1,0 +1,127 @@
+{u'city': {u'city': u'Vancouver',
+
+ u'member_count': 39959,
+
+ u'zip': u'V5K 0A1',
+
+ u'country': u'ca',
+
+ u'lon': -123.04,
+
+ u'state': u'BC',
+
+ u'lat': 49.28,
+
+ u'id': 857064},
+
+ u'events': [{u'status': u'upcoming',
+
+ u'local_date': u'2018-01-30',
+
+	 u'group': {u'who': u'Big Data Ingesters',
+
+	 u'name': u'Big Data (next gen Hadoop) Ingest & Transform,
+
+	 Vancouver',
+
+	 u'join_mode': u'open',
+
+	 u'region': u'en_US',
+
+	 u'created': 1467673611000,
+
+	 u'lon': -123.04000091552734,
+
+	 u'localized_location': u'Vancouver,
+
+	 BC',
+
+	 u'lat': 49.279998779296875,
+
+	 u'urlname': u'Big-Data-Ingest-Vancouver',
+
+	 u'id': 20146431},
+
+ u'name': u'Driving the Future of Business: Enterprise-hardened,
+
+ Real-time analytics apps',
+
+ u'created': 1516143599000,
+
+ u'pro_is_email_shared': False,
+
+	 u'venue': {u'city': u'Vancouver',
+
+	 u'name': u'Webcast',
+
+	 u'zip': u'',
+
+	 u'repinned': False,
+
+	 u'lon': -123.12073516845703,
+
+	 u'localized_country_name': u'Canada',
+
+	 u'state': u'BC',
+
+	 u'address_1': u'Online',
+
+	 u'country': u'ca',
+
+	 u'lat': 49.28273010253906,
+
+	 u'id': 24649328},
+
+
+
+ u'updated': 1516143985000,
+
+ u'visibility': u'public',
+
+ u'yes_rsvp_count': 2,
+
+ u'utc_offset': -28800000,
+
+ u'local_time': u'08:00',
+
+ u'time': 1517328000000,
+
+ u'duration': 3600000,
+
+ u'waitlist_count': 0,
+
+ u'id': u'246880848',
+
+ u'link': u'https://www.meetup.com/Big-Data-Ingest-Vancouver/events/246880848/',
+
+ u'description': u'<p>You\u2019ve made the move to real-time big data analytics,
+
+ that\u2019s good. Now make sure those apps are built to keep up with your growing business. The truth is,
+
+ not all real-time analytics apps are built to enterprise expectations for scale,
+
+ reliability,
+
+ operability and data integrity. Have you ever experienced challenges in any of these areas? If so,
+
+ it\u2019s not likely to be the last time and if not it\u2019s just a matter of time. Either way,
+
+ technology has marched on,
+
+ best practices have been honed and the market has accelerated making the status quo a risky proposition.</p> <p>DataTorrent specializes in deploying production ready,
+
+ enterprise-hardened,
+
+ real-time big data apps faster and less costly than you ever thought possible. Our deep expertise and approach is unique in the industry. Join HCL and DataTorrent,
+
+ both market leaders in analytics,
+
+ digitalization,
+
+ IOT and Automation as we walk through the opportunities and traps that dictate whether you will meet your future expectations and offer recommendations of how you could improve your existing apps or consider a new approach for your next app.</p> <p>And because we also understand that any change has a cost,
+
+ we will be extending an offer that\u2019s just too good to not consider. Trust us that this is not our first rodeo,
+
+ Please join us at 8 AM PST Jan 30\u2026there\u2019s nothing to lose and everything to learn.</p> <p>Please register for the webinar at:<br/><a href="https://attendee.gotowebinar.com/register/6427937778554810115" class="linkified">https://attendee.gotowebinar.com/register/6427937778554810115</a></p> <p>After registering,
+
+ you will receive a confirmation email containing information about joining the webinar.</p> <p>Reduce time to market and total cost of ownership with DataTorrent\'s AppFactory -<br/>www.datatorrent.com/appfactory</p> <p>Brought to you by DataTorrent - www.datatorrent.com</p> '}]}

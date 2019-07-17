@@ -1,0 +1,11 @@
+commands
+
+
+
+python app/master.py 2>&1 | tee app/log.txt app/log_errors.txt
+
+
+
+|& tee
+
+python app/master.py |& tee app/log.txt app/log_errors.txt  2>> app/log_errors.text

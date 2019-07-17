@@ -1,0 +1,1125 @@
+************************************************** 
+
+******** CYCLE:2018-01-31 21:46:11.987026 ******** 
+
+************************************************** 
+
+success
+[19882, 21681, 108403, 1954, 128595, 26643, 21808, 53792, 21680, 33135, 78529, 134056, 109987, 148105, 51127]
+-------
+************************
+2010-03-26 *******
+1    1620982 
+
+2    Vancouver Business Network 
+
+3    Vancouver 
+
+4    49.29 
+
+5    -123.14 
+
+6    https://www.meetup.com/the-vancouver-business-network/ 
+
+7    Members 
+
+8    12119 
+
+9    <p>The Vancouver Business Network Meetup (VBN) was founded in March 2010 and to-day is the largest community of active and aspiring small business owners in Canada. <br> <br> VBN holds inexpensive, high-quality seminars and networking events every week. These events help small business owners, entrepreneurs, wantapreneurs and marketing professionals learn, network and grow. They learn new tactics, tools and techniques. They network with like-minded people. They grow their networks, their businesses and their characters. <br> <br> VBN’s weekly seminars address just about every business topic imaginable including traditional, online and mobile marketing, personal development, social media, sales, networking, raising capital, crowd sourcing, gamification, branding, search engine optimization, web design and much much more. <br> <br> Start growing your business or advancing your career today by checking us out. The best way to do this is to attend one of our meetings. You'll discover why VBN is the largest business Meetup in Canada.</p> 
+
+10    the-vancouver-business-network 
+
+11    2010-03-26 
+
+12    Vancouver Business Network 
+
+13    1620982 
+
+14    Vancouver Business Network 
+
+15    1620982 
+
+16    None 
+
+17    1620982 
+
+18    2018-01-31 21:46:12 
+
+************************
+2015-11-28 *******
+1    19162038 
+
+2    TechVancouver 
+
+3    Vancouver 
+
+4    49.28 
+
+5    -123.04 
+
+6    https://www.meetup.com/TechVancouverOrg/ 
+
+7    Technologists 
+
+8    6196 
+
+9    <p>TechVancouver Meetup is the best way to expand your knowledge and network of the Vancouver technology community. Each monthly TechVancouver Meetup is designed for Vancouver technologists to learn something new and meet someone new.&nbsp;</p>
+<p>You’ll learn something new from one of our 5x5s, or four presentations of five minutes each. Each presentation is made by a Vancouver technology company big or small, and they use their time to share a lesson learned, a counter-intuitive finding, or demo a new technology.&nbsp;</p>
+<p>You’ll meet someone new over some food and drinks provided before each 5x5. Every TechVan also includes a Community Mic session, where anyone in attendance has a chance to address the entire event to promote themselves, their product, their event, or whatever they want!&nbsp;</p>
+<p>Interested in presenting, sponsoring or volunteering? Contact us through Meetup or email Alex at alex@techvancouver.org.&nbsp;</p>
+<p>TechVancouver Meetup is presented by TechVancouver.org, an organization supporting the growth and development of the Vancouver tech community.</p> 
+
+10    TechVancouverOrg 
+
+11    2015-11-28 
+
+12    TechVancouver 
+
+13    19162038 
+
+14    TechVancouver 
+
+15    19162038 
+
+16    None 
+
+17    19162038 
+
+18    2018-01-31 21:46:12 
+
+************************
+2012-09-10 *******
+1    4869742 
+
+2    HackerNest Vancouver Tech Socials 
+
+3    Vancouver 
+
+4    49.28 
+
+5    -123.12 
+
+6    https://www.meetup.com/HackerNestVAN/ 
+
+7    HackerNesters 
+
+8    6291 
+
+9    <p><b>WHY ATTEND TECH SOCIALS?</b> Simple. To meet new friends who love tech. Our Tech Socials ** &nbsp;are unpretentious &amp; agenda-free ** &nbsp;bring developers, designers, and other technologists together &nbsp;** &nbsp;help folks meet new pals, co-founders, funders, and even future employers **. Interested in volunteering at a Tech Social, joining the organizing team, or starting a new one in your city? See our other<a href="http://hackernest.com/cities/"> events</a> (<a href="http://hackernest.com/cities/">hackernest.com/cities</a>) around the world, then <a href="http://hackernest.com/volunteer/">apply</a>!</p>
+<p><b>WHO SPONSORS TECH SOCIALS?</b> Companies seeking greater community engagement. -- Sponsors ** support the grassroots tech community &nbsp;** showcase their products, services, and teams &nbsp;** constantly meet and hire talented developers, designers, project managers, + more! **</p>
+<p>********</p>
+<p><b><a href="http://hackernest.com">HackerNest</a> runs unpretentious tech and innovation events that advance technology, improve humanity, and contribute to greater overall economic prosperity. Our volunteer-run splinter cells (chapters), like our membership, grow and spread organically. As of February 2018, HackerNest will have run events in 70+ cities around the world. Check us out:</b></p>
+<p><b><a href="https://twitter.com/Hackernest">Twitter</a></b></p>
+<p><b><a href="http://www.facebook.com/hackernest">Facebook</a></b></p>
+<p><b><a href="https://en.wikipedia.org/wiki/HackerNest">Wikipedia</a></b></p>
+<p>********</p>
+<p><b>TECH SOCIALS </b>are exactly what they sound like; home to both seasoned and fledgling technologists alike. They are down-to-earth, agenda-free community events where talented, enthusiastic tech nerds gather to socialize, wax technological, and meet future co-founders, employees, funders, and friends.</p>
+<p>Our <b>HACKATHONS </b>rally experts and technologists to put their skills towards socially-beneficial causes. We partner with the U.S. Department of State on Fishackathon which runs in dozens of cities worldwide; with Facebook and the UK/Canadian governments on DementiaHack - the world’s foremost hackathon dedicated to dementia and Alzheimer’s, and many others. We also provide CONSULTING SERVICES to governments and corporations that draw from our unique experiences in producing blockbuster internal and external innovation events.</p>
+<p>HackerNest <b>MEMBERS </b>are diverse, highly skilled, and passionate about their industry. Developers, designers, engineers, business/marketing/sales-types, entrepreneurs, investors, and others regularly attend and participate in our universally-acclaimed events and communities.</p>
+<p><b>SPONSORS</b> power our movement. They include the likes of the Canadian, UK, and U.S. governments, Facebook, Amazon, Airbnb, Microsoft, RBC, and many other stellar brands. Interested? Please email <a href="mailto:sponsor@hackernest.com">sponsor@hackernest.com</a></p>
+<p><b>MEDIA</b>, please email <a href="mailto:pr@hackernest.com">pr@hackernest.com</a> or connect with us on <a href="https://twitter.com/Hackernest">Twitter</a> and <a href="http://www.facebook.com/hackernest">Facebook</a></p> 
+
+10    HackerNestVAN 
+
+11    2012-09-10 
+
+12    HackerNest Vancouver Tech Socials 
+
+13    4869742 
+
+14    HackerNest Vancouver Tech Socials 
+
+15    4869742 
+
+16    None 
+
+17    4869742 
+
+18    2018-01-31 21:46:12 
+
+************************
+2016-01-06 *******
+1    19288522 
+
+2    Urban Minglers over 30 
+
+3    Vancouver 
+
+4    49.28 
+
+5    -123.12 
+
+6    https://www.meetup.com/urbanminglersover30/ 
+
+7    Urbanites 
+
+8    3235 
+
+9    <p>we are a group for minglers over 30. our events will mostly be in yaletown, downtown, coal harbour and west end.</p> 
+
+10    urbanminglersover30 
+
+11    2016-01-06 
+
+12    Urban Minglers over 30 
+
+13    19288522 
+
+14    Urban Minglers over 30 
+
+15    19288522 
+
+16    None 
+
+17    19288522 
+
+18    2018-01-31 21:46:12 
+
+************************
+2010-10-17 *******
+1    1723816 
+
+2    Bubble Tea Vancouver 
+
+3    Vancouver 
+
+4    49.25 
+
+5    -123.11 
+
+6    https://www.meetup.com/bubbletea/ 
+
+7    Bubble tea lovers 
+
+8    3886 
+
+9    <p><span><span>Welcome to Bubble Tea Vancouver group!!</span></span></p>
+<p><img src="http://photos3.meetupstatic.com/photos/event/4/c/1/0/event_428059472.jpeg"></p>
+<p><strong>Thank you for making this one of the most active Social Meetup group in Vancouver!</strong> <br> <span>If you like bubble tea and meetups, then come join us!</span> <br> <br> </p>
+<p><span>This group has grown from just visiting different bubble tea places to doing any activities with bubble tea!</span> <br> <span>So you will see many different activities that we do: golfing, archery, hiking, eating out, etc. But all these activities will bring us back to a bubble tea, somehow!</span> <br> <br> </p>
+<p><img src="http://photos2.meetupstatic.com/photos/event/e/1/a/b/600_435837771.jpeg"></p>
+<p><img src="http://photos2.meetupstatic.com/photos/event/b/b/a/5/600_435828037.jpeg"></p>
+<p>&nbsp;</p>
+<p><strong>Who should join:</strong> <br> <span>If you like bubble tea or simply just hanging out with interesting people, or if you are new to Vancouver, this will be a good way to meet people.</span> <br> <br> <span>We see ourselves more of a community, and not a typical meetup group.</span> <br> <br> <strong>Our rules:</strong> <br> <span>We reserve the right to remove our members if they fail to show up to a fully booked event. Please be considerate when you RSVP. If you really have to cancel then please provide at least 48 hours notice.</span> <br> <br> <span>Any suggestions ideas are welcome!</span> <br> <br> <span>Please connect with us on</span> <a href="http://www.facebook.com/bbtyvr">Facebook</a> <span>or</span> <a href="http://ilovebbt.com/">iLoveBBT.com</a><span>.</span></p>
+<p>&nbsp;</p> 
+
+10    bubbletea 
+
+11    2010-10-17 
+
+12    Bubble Tea Vancouver 
+
+13    1723816 
+
+14    Bubble Tea Vancouver 
+
+15    1723816 
+
+16    None 
+
+17    1723816 
+
+18    2018-01-31 21:46:12 
+
+success
+************** LOOPING...GROUPS BATCH: # 1 ; Records: 0 - 3 ************ 
+
+************************
+2010-01-15 *******
+1    1583286 
+
+2    Vancouver Pixel Crafters 
+
+3    Vancouver 
+
+4    49.28 
+
+5    -123.11 
+
+6    https://www.meetup.com/Vancouver-Tech-Co-Founders/ 
+
+7    Entrepreneurs 
+
+8    4588 
+
+9    <p>Meeting the right people is crucial. We look to match ideas with talent, hustlers with hackers and provide a great opportunity to meet other people in Vancouver working in the Tech Industry.</p>
+<p>We are the official meetup for <a href="http://www.launchacademy.ca">Launch Academy</a>, as well as community run events like Demo Camp.</p>
+<ul>
+<li>Want to have an event without having to create an entire new Meetup group?</li>
+<li>Want to host or promote an event to 100s of web, software, and design craftspeople in Vancouver?</li>
+<li>Interested in cool cross-disciplinary events that cover startups, development, marketing, design, and more?</li>
+</ul>
+<p>Join us in the meetup to get word about awesome events in Vancouver.</p>
+<p>If you would like to propose an event please keep the following in mind:</p>
+<ul>
+<li>The event must be focused around technology, entrepreneurship and/or design.</li>
+<li>The event must be free or of a moderate cost.</li>
+<li>The event's primary purpose is not self promotion/profit. Real value is added to the community.</li>
+</ul>
+<p>If you have any suggestions on how to make this group better, send our leadership team an email.</p>
+<p>See you at our next event!</p>
+<p> </p> 
+
+10    Vancouver-Tech-Co-Founders 
+
+11    2010-01-15 
+
+12    Vancouver Pixel Crafters 
+
+13    1583286 
+
+14    Vancouver Pixel Crafters 
+
+15    1583286 
+
+16    None 
+
+17    1583286 
+
+18    2018-01-31 21:46:13 
+
+************************
+2011-03-14 *******
+1    1798770 
+
+2    Vancouver Data Visualization 
+
+3    Vancouver 
+
+4    49.28 
+
+5    -123.11 
+
+6    https://www.meetup.com/Vancouver-Data-Visualization/ 
+
+7    Vizers 
+
+8    3167 
+
+9    <p>This group is for anyone interested in unique representations of data; you may be a programmer, artist or data nerd (or all of the above!).</p> 
+
+10    Vancouver-Data-Visualization 
+
+11    2011-03-14 
+
+12    Vancouver Data Visualization 
+
+13    1798770 
+
+14    Vancouver Data Visualization 
+
+15    1798770 
+
+16    None 
+
+17    1798770 
+
+18    2018-01-31 21:46:13 
+
+************************
+2017-12-20 *******
+1    26919530 
+
+2    Bitcoin Learn and Earn Events 
+
+3    Vancouver 
+
+4    49.28 
+
+5    -123.04 
+
+6    https://www.meetup.com/meetup-group-igoPDATQ/ 
+
+7    Members 
+
+8    407 
+
+9    <p>This is a very exciting opportunity for men and women who are interested in learning about Bitcoin, how it works, where to buy and how to earn the most with it. Also how to protect your bitcoins and cryptocurrencies.</p>
+<p>If you have always wanted to learn about bitcoin and cryptocurrency, blockchain technology, leadership and success tools to keep you ahead of the game, Now is your chance!</p>
+<p>Connect with leaders, successors, mentors and teachers that can mold your path to success with the best tools available.&nbsp; Get high-level intel on the best way to navigate in the crypto world.</p>
+<p>Network with other crypto investors and traders. Explore a world that is evolving into a new frontier of a Bitcoin Revolution.</p>
+<p><span><b>Bitcoin Learn and Earn:</b> Info workshop to teach people about Bitcoin, how it works, where to buy and earn.&nbsp; We will have a series of these, due to limited capacity per event, to give everyone a chance to attend and learn the fundamentals.</span> <br></p>
+<p><span><b>Crypto Leaders and Innovators:</b> An event where we will bring in different speakers to teach and talk about Cryptocurrency, trading, Alt coins, security compliances and ICO's.</span></p>
+<p><span><b>Crypto Networking Social:</b> Opportunity to connect with other crypto investors, business leaders, miners, traders etc and socialize with like minds of the same world.</span></p>
+<p> <br></p> 
+
+10    meetup-group-igoPDATQ 
+
+11    2017-12-20 
+
+12    Bitcoin Learn and Earn Events 
+
+13    26919530 
+
+14    Bitcoin Learn and Earn Events 
+
+15    26919530 
+
+16    None 
+
+17    26919530 
+
+18    2018-01-31 21:46:13 
+
+************************
+2016-05-01 *******
+1    19905099 
+
+2    YVR Startups 
+
+3    Vancouver 
+
+4    49.26 
+
+5    -123.14 
+
+6    https://www.meetup.com/YVR-Startups/ 
+
+7    Entrepreneurs 
+
+8    2991 
+
+9    <p>We invite startup leaders and experts to share their startup story and subject expertise relevant to startups and businesses. We bring value by asking them the hard questions everyone want to know.&nbsp;</p>
+<p>We’ve been to many meetups and are tired of hearing people share generic surface level stuff what can be found on blogs and we want the meat and bread wisdom from founders. We focus on sharing stories and practical startup growth tactics that can help you go from 0 to 45K on Instagram in a few months, how to build a powerhouse team, how to get traction or approach reporters and writers, how to start a startup as a non technical and many more.</p>
+<p>Vancouver is a growing entrepreneurial hub with many established and prominent upcoming startups. There are startup grants, good support, available capital and quality talents helping many startups scale big. There is no better time to start a startup than today here in Vancouver.</p>
+<p><img src="https://secure.meetupstatic.com/photos/event/5/a/8/2/600_461963170.jpeg"></p>
+<p> <br></p>
+<p>At YVR Startups we believe in the 3 I’s</p>
+<p><b>Inspire</b>- Hear stories from startup mentors and startup peers, be inspired and replicate their successes in your startups. </p>
+<p><b>Inform-</b> Be kept up to date with the latest happenings in the startup scene from new algorithm changes and growth strategies. We invite experts with results who will share with you the meat of growing a startup. No bs. </p>
+<p><b>Involve</b>- Go far and deep with our community. Connect with startup folks at our networking events, meet a co-founder and get started in a startup. </p>
+<p><span>Our presenters include founders and experts in the startup community including finalists at startup competitions, Top 30 under 30 recipients, CMOs, heads of growths, VCs and other successful founders. Get ready to receive great insights on how to grow your startup to the next level.&nbsp;</span> <br></p>
+<p><b>Meeting times:&nbsp;</b></p>
+<p><b>2nd wednesday of each month</b> - Monthly large gatherings&nbsp;</p>
+<p><b>Last monday of each month </b>- Casual roundtables for networking and discussion</p>
+<p> <br></p>
+<p><b>Key links:</b></p>
+<p><b>Website-&nbsp;</b><a href="http://www.yvrstartups.com">www.yvrstartups.com</a></p>
+<p><b>Startup Directory-</b> <a href="http://www.yvrstartups.com/directory">www.yvrstartups.com/directory</a></p>
+<p><b>Facebook- </b><a href="https://www.facebook.com/yvrstartups">fb.com/yvrstartups</a></p>
+<p><b>Twitter-</b> <a href="http://twitter.com/yvr_startups">twitter.com/yvr_startups</a></p>
+<p><b>Got a story to share?</b> <a href="mailto:info@yvrstartups.com">info@yvrstartups.com</a></p> 
+
+10    YVR-Startups 
+
+11    2016-05-01 
+
+12    YVR Startups 
+
+13    19905099 
+
+14    YVR Startups 
+
+15    19905099 
+
+16    None 
+
+17    19905099 
+
+18    2018-01-31 21:46:13 
+
+************************
+2012-08-27 *******
+1    4654242 
+
+2    Communication Mastery 
+
+3    Vancouver 
+
+4    49.28 
+
+5    -123.11 
+
+6    https://www.meetup.com/communicationmastery/ 
+
+7    CM members 
+
+8    1966 
+
+9    <p><img src="http://photos3.meetupstatic.com/photos/event/1/5/c/2/600_443825570.jpeg"></p>
+<p><span>Communication Mastery is designed for people who are &nbsp;a little tired of 'information overload, and are highly motivated to finally take what they know, put it into practice and achieve results. It is also for people who respect the importance of social media, but at the same time recognize how essential basic human interpersonal skills are for their success in the their business and personal relationships.&nbsp;</span></p>
+<p><span>You can expect each one of our events to be dynamic, fun and great for enriching your personal life and building your business.</span> <br></p>
+<p><span>Your host Allan Knight is a former Zen Monk and author of a new book, A Knight Without Armor- a 9 step formula for relationship success in work and life! He combines being your host, animator and trainer in a very inspiring, transforming and effective way.</span></p>
+<p><span>Look forward to seeing you all there....</span><br></p>
+<p><span> <br></span></p>
+<p><span>The CM Team</span></p> 
+
+10    communicationmastery 
+
+11    2012-08-27 
+
+12    Communication Mastery 
+
+13    4654242 
+
+14    Communication Mastery 
+
+15    4654242 
+
+16    None 
+
+17    4654242 
+
+18    2018-01-31 21:46:13 
+
+success
+************** LOOPING...GROUPS BATCH: # 2 ; Records: 3 - 6 ************ 
+
+************************
+2016-04-20 *******
+1    19863746 
+
+2    Vancouver Internet Technology Talents Networking @ 9CAT.NET 
+
+3    Vancouver 
+
+4    49.28 
+
+5    -123.12 
+
+6    https://www.meetup.com/Vancouver-Internet-Technology-Talents-Networking-9CAT-NET/ 
+
+7    Talents 
+
+8    978 
+
+9    <p>The group bring internet developers, designers, engineerings, entrepreneur enthusiasts , and investors together. For more Information, please click Join us to our Slack channel: <a href="http://slack.9cat.net" class="linkified">http://slack.9cat.net</a></p> 
+
+10    Vancouver-Internet-Technology-Talents-Networking-9CAT-NET 
+
+11    2016-04-20 
+
+12    Vancouver Internet Technology Talents Networking @ 9CAT.NET 
+
+13    19863746 
+
+14    Vancouver Internet Technology Talents Networking @ 9CAT.NET 
+
+15    19863746 
+
+16    None 
+
+17    19863746 
+
+18    2018-01-31 21:46:13 
+
+************************
+2010-01-29 *******
+1    1590799 
+
+2    Vancouver Free n Pay Events 
+
+3    Vancouver 
+
+4    49.28 
+
+5    -123.12 
+
+6    https://www.meetup.com/VFEVFE/ 
+
+7    Friends 
+
+8    1973 
+
+9    <p><img src="http://photos4.meetupstatic.com/photos/event/b/0/2/4/event_154245092.jpeg" style="max-height : 700px ; max-width : 700px ; margin : 5px ; float : left"></p>
+<p><span style="font-size : small"><span style="font-size : medium"><span style="color : #008000"><strong>Welcome to one of the largest and most active Friend &amp; Social Meetup Groups in the Vancouver area!</strong></span></span></span></p>
+<p><span style="font-size : small"><span style="font-size : medium">This group is all about finding friends and making new friends. It's for anyone who enjoys events and activities that are socially interactive, interesting, laid-back, easy-going and lots of fun. This group is for fun socializing only and there is no cost to join our group.</span></span></p>
+<p><span style="font-size : small"><span style="font-size : medium"><span style="color : #ff0000">Whether you're single, married, divorced, separated, temporarily in town, new in town, new to Vancouver, bored and looking for things to do or just like meeting people and making new friends -- this is an ideal group for you.</span></span></span></p>
+<p><span style="font-size : small"><span style="font-size : medium"><span style="color : #0000ff">We organize activities like dining out in interesting restaurants, house parties, BBQ's and dinners, coffee get togethers, visits to cool pubs &amp; clubs, movie, theatre and musical evenings, picnics, camping trips, day trips and out of town weekend <span style="font-size : small"><span style="font-size : medium"><span style="color : #008000"><strong><img src="http://photos1.meetupstatic.com/photos/event/e/4/0/e/event_17998382.jpeg" style="max-height : 700px ; max-width : 700px ; margin : 5px ; float : left"></strong></span></span></span></span></span></span> getaways and anything else that promotes social mingling and allows people to get together, network, chit-chat and get to know one another.</p>
+<p><span style="font-size : small"><span style="font-size : medium"><span style="color : #008000">In addition to social events we also organize fun outdoors events that help promote good health &amp; wellness through fun exercise and regular hiking and walking events.</span></span></span></p>
+<p><span style="font-size : small"><span style="font-size : x-small"><span style="color : #ff0000"><span style="font-size : medium">A good way of finding out how well a Meetup group is performing is to check out their past events. In particular, look at the event rating and also read member's comments. We encourage you to click on any of our past events under the heading "Past Meetups" and see what our members had to say.</span></span></span></span></p>
+<p><span style="color : #0000ff"><span style="font-size : medium">This group has been running since 2010 and many of the regular members have developed some wonderful friendships and created some great memories during that time. We hope you'll join us, start attending events and create your own inspiring stories along the way.</span></span></p>
+<p><span style="color : #0000ff"><span style="font-size : medium"><a href="http://www.youtube.com/watch?v=bhCvkGqPCaQ&amp;feature=player_embedded"></a><a href="http://www.youtube.com/watch?v=bhCvkGqPCaQ&amp;feature=player_embedded" target="_blank"></a><a href="http://www.youtube.com/watch?v=bhCvkGqPCaQ&amp;feature=player_embedded" target="_blank"></a><a href="http://www.youtube.com/watch?v=bhCvkGqPCaQ&amp;feature=player_embedded" target="_blank"></a><a href="http://www.youtube.com/watch?v=bhCvkGqPCaQ&amp;feature=player_embedded" target="_blank">http://www.youtube.com/watch?v=bhCvkGqPCaQ&amp;feature=player_embedded</a></span></span></p>
+<p><span style="color : #800000"><span style="font-size : small"><span style="font-size : medium"><span style="color : #008000"><strong><img src="http://photos1.meetupstatic.com/photos/event/2/1/d/5/event_34508661.jpeg" style="max-height : 700px ; max-width : 700px ; margin : 5px ; float : left"></strong></span></span></span></span></p>
+<p style="text-align : center"><span style="color : #800000"><span style="font-size : small"><span style="font-size : x-small"><span style="color : #000080">Keyword: Dining Out, Movies, Concerts, Karaoke, Ballroom &amp; Latin Dancing, Go-Kart, Gun Shooting, Tennis (In/Outdoor), Ping Pong, Badminton, Gym, Picnics, BBQ, walking, Hiking, Golfing, Fishing, Fireworks, Boat Cruise, Kayaking, Canoeing, Rowing, Trips, Sight-Seeing, Kite flying, Bowling, Theater, Language Exchange, Intellectual Gatherings, Arts, Cultural &amp; Festival Events.</span></span></span></span></p> 
+
+10    VFEVFE 
+
+11    2010-01-29 
+
+12    Vancouver Free n Pay Events 
+
+13    1590799 
+
+14    Vancouver Free n Pay Events 
+
+15    1590799 
+
+16    None 
+
+17    1590799 
+
+18    2018-01-31 21:46:13 
+
+************************
+2009-02-22 *******
+1    1390261 
+
+2    HAPPY SOCIAL MEETUP 
+
+3    Vancouver 
+
+4    49.28 
+
+5    -123.12 
+
+6    https://www.meetup.com/HappyS/ 
+
+7    Pros 
+
+8    3629 
+
+9    <p>Been a long day/week at work?</p>
+<p>Come join us for some drinks and food and socialize with&nbsp;<span>other Vancouver professionals like yourself! :)</span></p>
+<p>This group is for&nbsp;<span>socializing</span>. Respectful, positive and well-behaved individuals are welcome to join!! &nbsp;</p>
+<p>(NOTE: No soliciting, advertising as such allowed unless arranged with the organizer.)</p>
+<p>Sorry you must be at least 19 years old to join. Up-to-date close-up profile photo that shows your face clearly&nbsp;is required. Each event attendee must join the group and sign up with the event.</p>
+<p>BASICS --- Sign up if you will show up, Don't s<span>ign up if you won't show up, Don't s</span><span>how up without signing up or bring someone who is not signed up.</span></p>
+<p><strong>WARNING:</strong> <span>People who don't follow the rule can be removed and/or banned from this group without further notice. It's the organizer's discretion to remove or ban a member, for their inappropriate language/attitude/behaviour, failure to follow the instructions, being disrespectful, leaving without paying, etc., for example.&nbsp;</span></p>
+<p><span><em>The volunteer organizer is not only doing all the hard work but also paying fees to Meetup.com which allows members to use it for free. Donation is always welcome!</em></span></p> 
+
+10    HappyS 
+
+11    2009-02-22 
+
+12    HAPPY SOCIAL MEETUP 
+
+13    1390261 
+
+14    HAPPY SOCIAL MEETUP 
+
+15    1390261 
+
+16    None 
+
+17    1390261 
+
+18    2018-01-31 21:46:13 
+
+************************
+2014-10-27 *******
+1    17900322 
+
+2    Microservices Design and Implementation with DDD/CQRS/ES 
+
+3    Vancouver 
+
+4    49.28 
+
+5    -123.12 
+
+6    https://www.meetup.com/DDD-CQRS-ES/ 
+
+7    domain wranglers 
+
+8    714 
+
+9    <p><b>As far as we know, this is the only regular, weekly meetup in Vancouver where developers, architects and product owners can get together and gain hands-on experience in Domain Driven Design, building event sourced microservices and applying other modern software delivery techniques. (Any others? Please drop us a line – we’d love to hear from you!)</b></p>
+<p>We event-storm problems, try out designs and implement, learning from each other. We tend to be strongly focused on business value and business objectives. As far as technology is concerned, we are language-agnostic and have so far played with C#, Go and JavaScript. Attendees are usually a mixed bunch, from absolute beginners to folks who have built software for a quarter century or more, with new people and regulars dropping by all the time.</p>
+<p>Based on experiences from two previous “projects” we did (a hotel management system and an e-commerce platform), we are changing the format of the meetup so we have more time to experiment with a particular problem domain: Meetups will be series of three, designing and partially implementing a system over three weeks.</p>
+<p><b>To explore from scratch: Join us for a three week series. </b></p>
+<p><b>Only interested in specific topics? Drop by anytime.</b></p>
+<p><b> &lt;br&gt;</b></p> 
+
+10    DDD-CQRS-ES 
+
+11    2014-10-27 
+
+12    Microservices Design and Implementation with DDD/CQRS/ES 
+
+13    17900322 
+
+14    Microservices Design and Implementation with DDD/CQRS/ES 
+
+15    17900322 
+
+16    None 
+
+17    17900322 
+
+18    2018-01-31 21:46:13 
+
+************************
+2018-01-03 *******
+1    27047121 
+
+2    Cardano Blockchain Vancouver Community 
+
+3    Vancouver 
+
+4    49.28 
+
+5    -123.04 
+
+6    https://www.meetup.com/Cardano-Blockchain-Vancouver-Community/ 
+
+7    Members 
+
+8    119 
+
+9    <p>Welcome to the Cardano (ADA) Vancouver Community MeetUp group! This is the initial group that is open to anyone who is interested in ADA and wanting engage in conversations/meet with developers, investors and community educators. Join our group and keep up-to-date on upcoming events. Looking forward to arranging technical discussions and speaker events for the Vancouver Cardano community!</p> 
+<p>We plan to hold regular events, social and more educational, with special guests and talks.</p> 
+<p>Join us!</p> 
+
+10    Cardano-Blockchain-Vancouver-Community 
+
+11    2018-01-03 
+
+12    Cardano Blockchain Vancouver Community 
+
+13    27047121 
+
+14    Cardano Blockchain Vancouver Community 
+
+15    27047121 
+
+16    None 
+
+17    27047121 
+
+18    2018-01-31 21:46:13 
+
+success
+************** LOOPING...GROUPS BATCH: # 3 ; Records: 6 - 9 ************ 
+
+************************
+2017-09-10 *******
+1    25870346 
+
+2    Canadian Tech Recruiting Meetup 
+
+3    Vancouver 
+
+4    49.28 
+
+5    -123.04 
+
+6    https://www.meetup.com/Canadian-Tech-Recruiting-Meetup/ 
+
+7    Members 
+
+8    250 
+
+9    <p>Everyone needs developers and tech-people, but how do you source them? We are here to offer a platform for people in the industry to discuss and explore different avenues of how to find and attract the best tech-talent.</p> 
+
+10    Canadian-Tech-Recruiting-Meetup 
+
+11    2017-09-10 
+
+12    Canadian Tech Recruiting Meetup 
+
+13    25870346 
+
+14    Canadian Tech Recruiting Meetup 
+
+15    25870346 
+
+16    None 
+
+17    25870346 
+
+18    2018-01-31 21:46:13 
+
+************************
+2010-06-11 *******
+1    1659763 
+
+2    Internet Masterminds Meetup | Business Networking 
+
+3    Burnaby 
+
+4    49.23 
+
+5    -123.0 
+
+6    https://www.meetup.com/Internet-Masterminds/ 
+
+7    Masterminds 
+
+8    7369 
+
+9    <p><b>Become a part of the&nbsp;largest Internet marketing Meetup on Meetup.com!</b></p>
+<p>The group is for Internet entrepreneurs that get together to discuss their most impactful tactics, ideas and insights. &nbsp;</p>
+<p>The Meetup takes place in Vancouver, British Columbia and is available online to the world. You can become a member of <b>Internet Masterminds TV </b>and access all the videos from every event and webinar at:</p>
+<p><a href="https://www.webfriendly.com/masterminds">https://www.webfriendly.com/masterminds</a></p>
+<p>Our purpose is to make successful Internet Marketing careers possible for anyone around the world.&nbsp;</p>
+<p>Meetup Keywords: Business Meetup, Business Networking, Entrepreneur, Entrepreneurship,&nbsp;Business, Marketing, Social Media,&nbsp;Internet Marketing, Affiliate Marketing, Social Media Marketing, Events in Vancouver, Meet People In Vancouver, Meet Entrepreneurs in Vancouver, Business &amp; Marketing, Workshops &amp; Training, Cool &amp; Fun Events for businesspeople in Vancouver!</p> 
+
+10    Internet-Masterminds 
+
+11    2010-06-11 
+
+12    Internet Masterminds Meetup | Business Networking 
+
+13    1659763 
+
+14    Internet Masterminds Meetup | Business Networking 
+
+15    1659763 
+
+16    None 
+
+17    1659763 
+
+18    2018-01-31 21:46:13 
+
+************************
+2013-01-21 *******
+1    6782022 
+
+2    DYNAMIC WOMEN® IN ACTION (BC) 
+
+3    North Vancouver 
+
+4    49.32 
+
+5    -123.1 
+
+6    https://www.meetup.com/DWAinBC/ 
+
+7    Dynamic Women® 
+
+8    807 
+
+9    <p><b>Calling all Women who are Dynamic!</b>&nbsp;Dynamic Women™ in Action was created by Diane Rolston, a Certified Life and Leadership Coach, International Speaker and Author, to connect women who are creating an impact in their lives, businesses and communities (or those who wish they could do it more!)</p>
+<p>Dynamic Women™ in Action events&nbsp;are unique&nbsp;because you get Coaching in Action© from a Certified Professional Coach&nbsp;who leads you through engaging activities to get clearer about what makes you great, things that can help you succeed and the obstacles holding you back. &nbsp;We attract women who are&nbsp;authentic, supportive and believe in personal and&nbsp;professional&nbsp;development. <br></p>
+<p><img src="https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/d/7/5/9/600_444475129.jpeg"></p>
+<p><b>We believe in building strong relationships</b> that support business and personal growth.&nbsp;Through our events and community, DWA™ provides a great space for women to come and be DYNAMIC, feel connected and get coaching that is a catalyst for change in their lives and businesses</p>
+<p><span><b>You should join if any of these are true about you:</b></span> <br></p>
+<ul> 
+ <p>•&nbsp;you are dynamic (or really hope you could be soon)</p> 
+ <p>•&nbsp;you want to make REAL relationships with other women</p> 
+ <p>•&nbsp;you're sick of having people sell to you in the first 30 seconds of meeting them</p> 
+ <p>•&nbsp;you don't schedule time for yourself (yes that's a bad habit)</p> 
+ <p>•&nbsp;you need to chat with other people who GET what it's like to be a business professional, mompreneur, entrepreneur or small business owner</p> 
+ <p>•&nbsp;you like knowing more about what makes you and others tick</p> 
+ <p>•&nbsp;you need some inspiration, tools, tips, support, motivation</p> 
+ <p>•&nbsp;you're a little curious about what this could do for you, your business and/or your life</p> 
+</ul>
+<p><img src="https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/d/7/4/4/600_444475108.jpeg"></p>
+<p><span><b>Women in our community say that after our events they have the following benefits:</b></span> <br></p>
+<p>•&nbsp;Have&nbsp;new motivation&nbsp;so you can have <b>GREATER EASE AND ENERGY</b> in your business.</p>
+<p>•&nbsp;Get&nbsp;great ideas, which will <b>INSPIRE BREAKTHROUGHS</b> and take you and your&nbsp;business to the next level.</p>
+<p>•&nbsp;Share with others&nbsp;who are on their own business journey, so you know others “get it” and you’ll BE INSPIRED by their stories and ideas.</p>
+<p>•&nbsp;Through the Coaching in Action© and discussions you’ll&nbsp;discover tangible tools, a solution or even an “AHA” to put into action.</p>
+<p>•&nbsp;Experience GENUINE CONNECTIONS rather than superficial conversations so you can be yourself and “ditch your pitch”.</p>
+<p>•&nbsp;Create&nbsp;strong relationships&nbsp;with other like-minded women who are more open to getting to know YOU and when we like and trust each other A LOT OF BUSINESS happens naturally!</p>
+<p>Come as you are...and join us at our next event!</p>
+<p>xo</p>
+<p>Diane Rolston</p>
+<p>Certified Professional Coach</p>
+<p>Unleashing Dynamic Women® into Action</p> 
+
+10    DWAinBC 
+
+11    2013-01-21 
+
+12    DYNAMIC WOMEN® IN ACTION (BC) 
+
+13    6782022 
+
+14    DYNAMIC WOMEN® IN ACTION (BC) 
+
+15    6782022 
+
+16    None 
+
+17    6782022 
+
+18    2018-01-31 21:46:13 
+
+************************
+2008-05-20 *******
+1    1157212 
+
+2    The Vancouver Entrepreneurs Toastmasters Club meet 
+
+3    Vancouver 
+
+4    49.28 
+
+5    -123.12 
+
+6    https://www.meetup.com/vancouver-entrepreneurs-toastmasters-club/ 
+
+7    Entrepreneurs 
+
+8    2496 
+
+9    <p>How long have you been thinking about joining a Toastmasters club? Here are just a few reasons from people like you for you to BEGIN your Toastmasters journey this week with the Vancouver Entrepreneurs Toastmasters Club:</p> 
+<p>We welcome guests to VETC meetings every Wednesday from 6:30 to 9 pm. Meeting is followed up by a networking event in the nearby restaurant. Overcome your fear of public speaking in a fun, supportive club environment for people like you: ENTREPRENEURS. Receive expert coaching from experienced Toastmasters to improve the effectiveness of your presentations and leadership skills. Look forward to seeing you this Wednesday!</p> 
+
+10    vancouver-entrepreneurs-toastmasters-club 
+
+11    2008-05-20 
+
+12    The Vancouver Entrepreneurs Toastmasters Club meet 
+
+13    1157212 
+
+14    The Vancouver Entrepreneurs Toastmasters Club meet 
+
+15    1157212 
+
+16    None 
+
+17    1157212 
+
+18    2018-01-31 21:46:13 
+
+************************
+2009-03-16 *******
+1    1410212 
+
+2    Asian Social Group 
+
+3    Vancouver 
+
+4    49.26 
+
+5    -123.04 
+
+6    https://www.meetup.com/Asian-Social-Group/ 
+
+7    Cool People 
+
+8    3524 
+
+9    <p><span><strong>Welcome to the Asian Social Group Meetup!</strong></span></p>
+<p><span>The Asian Social Group group is for Asians (all types; Chinese, Japanese, Korean, etc… AND we welcome all race/ethnicities to join) who want to meet and socialize as well. This is meant to be a social group where you'll go out and have fun and meet people who have similar interests.</span><br></p>
+<p><span>We have quite a number of events, averaging one or two a month, from Bubble Tea, to Movies, to Karaoke, and of course, the favorite&nbsp;Asian pastime...FOOD!</span></p>
+<p><span>The Asian Social Group Meetup is a real names and photo group, so when you signup (it's free to join), please use your real name and post your photo so people see who you are. This is not the place to be shy, we're a friendly group.</span></p>
+<p><span>We do hope that if you RSVP for an event that you will show up. Thus we are enforcing a two strikes and you're out policy in the group. If you miss two events in a row that you have RSVP'd for, then you are removed from the group, just so we can keep everyone accountable. We do sometimes put an extra two to five dollar meetup event fee onto random event, this is only to pay for the meetup group fees that Meetup.com charges for te group. All other events are at the/your cost of the event.</span></p>
+<p><br></p> 
+
+10    Asian-Social-Group 
+
+11    2009-03-16 
+
+12    Asian Social Group 
+
+13    1410212 
+
+14    Asian Social Group 
+
+15    1410212 
+
+16    None 
+
+17    1410212 
+
+18    2018-01-31 21:46:13 
+
+success
+************** LOOPING...GROUPS BATCH: # 4 ; Records: 9 - 12 ************ 
+
+************************
+2017-11-12 *******
+1    26577129 
+
+2    Crypto Crowd 
+
+3    Vancouver 
+
+4    49.26 
+
+5    -123.07 
+
+6    https://www.meetup.com/Crypto-Crowd/ 
+
+7    Early Adopters 
+
+8    311 
+
+9    <p>This is a non-technical crypto group looking at the big picture of the cryptocurrency landscape. We will analyze coins and tokens together to decide which are best to get. We will also be newby friendly to assist those who need to get themselves set up with crypto. It is a bit of a learning curve but definitely something worth learning before the masses show up.</p> 
+
+10    Crypto-Crowd 
+
+11    2017-11-12 
+
+12    Crypto Crowd 
+
+13    26577129 
+
+14    Crypto Crowd 
+
+15    26577129 
+
+16    None 
+
+17    26577129 
+
+18    2018-01-31 21:46:14 
+
+************************
+2010-09-13 *******
+1    1706320 
+
+2    Multicultural Social Network 
+
+3    Richmond 
+
+4    49.16 
+
+5    -123.19 
+
+6    https://www.meetup.com/MSNMSN/ 
+
+7    Friends 
+
+8    1264 
+
+9    <p><span style="font-size : small"><span style="font-size : medium"><span style="color : #008000"><strong><img src="http://photos2.meetupstatic.com/photos/event/2/a/c/d/event_20410957.jpeg" style="max-height : 700px ; max-width : 700px ; margin : 5px ; float : left"></strong></span></span></span></p>
+<p><span style="font-size : small"><span style="font-size : medium"><span style="color : #008000"><strong>Welcome to one of the largest and most active Friend &amp; Social Meetup Groups in the Vancouver area!</strong></span></span></span></p>
+<p><span style="font-size : small"><span style="font-size : medium">This group is all about finding friends and making new friends. It's for anyone who enjoys events and activities that are socially interactive, interesting, laid-back, easy-going and lots of fun. This group is for fun socializing only and there is no cost to join our group.</span></span></p>
+<p><span style="font-size : small"><span style="font-size : medium"><span style="color : #ff0000">Whether you're single, married, divorced, separated, temporarily in town, new in town, new to Vancouver, bored and looking for things to do or just like meeting people and making new friends -- this is an ideal group for you.</span></span></span></p>
+<p><span style="font-size : small"><span style="font-size : medium"><span style="color : #0000ff">We organize activities like dining out in interesting restaurants, house parties, BBQ's and dinners, coffee get togethers, visits to cool pubs &amp; clubs, movie, theatre and musical evenings, picnics, camping trips, day trips and out of town weekend <span style="font-size : small"><span style="font-size : medium"><span style="color : #008000"><strong><img src="http://photos1.meetupstatic.com/photos/event/e/4/0/e/event_17998382.jpeg" style="max-height : 700px ; max-width : 700px ; margin : 5px ; float : left"></strong></span></span></span></span></span></span> getaways and anything else that promotes social mingling and allows people to get together, network, chit-chat and get to know one another.</p>
+<p><span style="font-size : small"><span style="font-size : medium"><span style="color : #008000">In addition to social events we also organize fun outdoors events that help promote good health &amp; wellness through fun exercise and regular hiking and walking events.</span></span></span></p>
+<p><span style="font-size : small"><span style="font-size : x-small"> </span></span></p>
+<p><span style="font-size : small"><span style="font-size : x-small"><span style="color : #ff0000"><span style="font-size : medium">A good way of finding out how well a Meetup group is performing is to check out their past events. In particular, look at the event rating and also read member's comments. We encourage you to click on any of our past events under the heading "Past Meetups" and see what our members had to say.</span></span></span></span></p>
+<p><span style="color : #0000ff"><span style="font-size : medium">This group has been running since 2010 and many of the regular members have developed some wonderful friendships and created some great memories during that time. We hope you'll join us, start attending events and create your own inspiring stories along the way.  </span></span></p>
+<p><span style="color : #0000ff"><span style="font-size : medium"><a href="http://www.youtube.com/watch?v=bhCvkGqPCaQ&amp;feature=player_embedded"></a><a href="http://www.youtube.com/watch?v=bhCvkGqPCaQ&amp;feature=player_embedded" target="_blank"></a><a href="http://www.youtube.com/watch?v=bhCvkGqPCaQ&amp;feature=player_embedded" target="_blank"></a><a href="http://www.youtube.com/watch?v=bhCvkGqPCaQ&amp;feature=player_embedded" target="_blank"></a><a href="http://www.youtube.com/watch?v=bhCvkGqPCaQ&amp;feature=player_embedded" target="_blank">http://www.youtube.com/watch?v=bhCvkGqPCaQ&amp;feature=player_embedded</a></span></span></p>
+<p><span style="color : #800000"><em>  </em> <span style="font-size : small"><span style="font-size : medium"><span style="color : #008000"><strong><img src="http://photos1.meetupstatic.com/photos/event/2/1/d/5/event_34508661.jpeg" style="max-height : 700px ; max-width : 700px ; margin : 5px ; float : left"></strong></span></span></span></span></p>
+<p style="text-align : center"><span style="color : #800000"><span style="font-size : small"><span style="font-size : x-small"><span style="color : #000080">Keyword: Dining Out, Movies, Concerts, Karaoke, Ballroom &amp; Latin Dancing, Go-Kart, Gun Shooting, Tennis (In/Outdoor), Ping Pong, Badminton, Gym, Picnics, BBQ, walking, Hiking, Golfing, Fishing, Fireworks, Boat Cruise, Kayaking, Canoeing, Rowing, Trips, Sight-Seeing, Kite flying, Bowling, Theater, Language Exchange, Intellectual Gatherings, Arts, Cultural &amp; Festival Events.</span></span></span></span></p>
+<p style="text-align : left"><span style="color : #800000"><span style="font-size : small"><span style="font-size : x-small"> </span></span></span>  </p> 
+
+10    MSNMSN 
+
+11    2010-09-13 
+
+12    Multicultural Social Network 
+
+13    1706320 
+
+14    Multicultural Social Network 
+
+15    1706320 
+
+16    None 
+
+17    1706320 
+
+18    2018-01-31 21:46:14 
+
+************************
+2009-03-14 *******
+1    1408498 
+
+2    Newcomers Settlement Network 
+
+3    Vancouver 
+
+4    49.28 
+
+5    -123.12 
+
+6    https://www.meetup.com/NSNNSN/ 
+
+7    Newcomer 
+
+8    1899 
+
+9    <p>Perhaps some immigrants/newcomers have a unique mix of courage, naivete and resilience that enables their smooth transition to a new homeland. But it’s not easy for everyone to integrate into a new culture.</p>
+<p> <br></p>
+<p>What makes one newcomer’s integration more successful than another? Shifting one’s cultural identity with new roles, values and beliefs in the new society is a start. Also, engaging with people outside of your own ethnic group work helps that adjustment.</p>
+<p> <br></p>
+<p>3 Stages to resettlement <br> There are three stages to a newcomer’s adaptation in a new country: friends, employment and transportation. </p>
+<p> <br></p>
+<p><strong>Employment</strong></p>
+<p>It is challenging to find work, especially when you are new to Canada. Learn what to expect, where to find information about jobs in BC, and who to talk to if you want help. We work with different career college who provide training and job placement program. Please send an email with your resume to <a href="mailto:365referral@gmail.com">365referral@gmail.com</a> if you need help looking for a job in vancouver. We may not find the dream job for you, but at least get you a decent&nbsp;job to pay your bills. We will have meetup based on job fair and career opportunities. </p>
+<p> <br></p>
+<p><strong>Transportation</strong></p>
+<p>To get around easily in today's big cities, especially in their sparsely populated suburbs, access to a private motor vehicle is not only very convenient but sometimes absolutely essential. Parents with young children know this only too well, since they often have to commute to work and back, drive the children to the daycare centre or evening activities, go to an appointment, shop for dinner and do other things besides – all in the same day. </p>
+<p> <br></p>
+<p> We helps newcomers get car loans regardless of previous credit history. Our Goal is to ensure that you are able to obtain the vehicle you need, regardless of your credit score. Please give me a call, if you need assistance to get your first car in Canada. My cell number is 778-855-6681. </p>
+<p><br></p>
+<p>PC</p> 
+
+10    NSNNSN 
+
+11    2009-03-14 
+
+12    Newcomers Settlement Network 
+
+13    1408498 
+
+14    Newcomers Settlement Network 
+
+15    1408498 
+
+16    None 
+
+17    1408498 
+
+18    2018-01-31 21:46:14 
+
+************************
+2016-08-21 *******
+1    20338308 
+
+2    BC Blockchain Forum 
+
+3    Vancouver 
+
+4    49.28 
+
+5    -123.04 
+
+6    https://www.meetup.com/BCBlockchainForum/ 
+
+7    Members 
+
+8    627 
+
+9    <p>Bitcoin &amp; Blockchain and Crypto Assets are&nbsp;fuelling&nbsp;one of the fastest growing industries in the world<br></p>
+<p><img src="https://secure.meetupstatic.com/photos/event/8/e/8/2/600_464376482.jpeg"></p>
+<p>The BC Blockchain Forum is a private/public sector initiative to explore the benefits of blockchain technologies and the associated creation of digital assets promoting digital transformation and the digital economy in British Columbia, and Canada-wide.</p>
+<p>We provide those who are just learning about blockchain or are already deeply immersed in, with a look at how innovative ideas are developed and executed. We also provide detailed information about what blockchain is, its evolution and its potential to change the future.&nbsp;We support the growth of the digital economy through collaboration and partnerships with entrepreneurs, startups, investors, corporates, educational institutions, service providers, and government bodies.</p>
+<p><span>Our upcoming themes will incude:</span></p>
+<p>• The Token Economy fuelled by Token Generating Events (commonly known as Initial Coin Offering - ICO's)</p>
+<p>• Regulatory, tax, compliance and other implications of blockchain based business models</p>
+<p>• Digital Identity Management&nbsp;</p>
+<p>• Blockchain applications for Enterprise and Government</p>
+<p>Let us know what other topics should be covered. Look out for our first meeting in October.</p>
+<p> <br></p>
+<p> <br></p>
+<p> <br></p> 
+
+10    BCBlockchainForum 
+
+11    2016-08-21 
+
+12    BC Blockchain Forum 
+
+13    20338308 
+
+14    BC Blockchain Forum 
+
+15    20338308 
+
+16    None 
+
+17    20338308 
+
+18    2018-01-31 21:46:14 
+
+************************
+2016-05-11 *******
+1    19942439 
+
+2    Small Business BC Meetup 
+
+3    Vancouver 
+
+4    49.29 
+
+5    -123.11 
+
+6    https://www.meetup.com/SBBCMeetup/ 
+
+7    Small Business Builders 
+
+8    2082 
+
+9    <p>Are you starting or growing your BC business, want to meet with like-minded business people and love to learn? Join Small Business BC &nbsp;at our Meetup events at Waterfront Station in Downtown Vancouver.&nbsp;</p>
+<p>Come ready to network, share ideas and get feedback from your fellow entrepreneurs. Each month also features guest speakers who will share their experiences and provide valuable
