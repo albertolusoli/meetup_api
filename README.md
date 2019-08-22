@@ -5,4 +5,4 @@ The project was developed at Simon Fraser University by Alberto Lusoli and Frede
 
 Thanks to DewHoney Ventures for their support in developing the project and to the Simon Fraser Research Computing Group for their help in releasing the code into the public domain. 
 
-Meetup API Connector repository: https://github.com/albertolusoli/meetup_api
+Meetup Archiver Dashboard: https://github.com/albertolusoli/meetupdashboard
